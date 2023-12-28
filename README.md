@@ -1,6 +1,7 @@
 EcoCycle aims to easing end-to-end process for workshops recycling.
 
 our team members:
+
 Romadhon Wiratama (M258BSY0977) - Machine Learning - University of Muhammadiyah Malang
 
 Ellys Rahma Putri Bintoro (M258BSX1592) - Machine Learning - University of Muhammadiyah Malang
